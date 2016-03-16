@@ -4,7 +4,7 @@ Author: Gabriel "solstice" Ryan
 Email: gabriel@solstice.me
 Description:
 
-Reconstructions database schema and dumps hashes for DVWA by exploiting blind SQLi.
+Reconstructs database schema and dumps hashes for DVWA by exploiting blind SQLi.
 
 '''
 import json
